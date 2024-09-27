@@ -17,3 +17,4 @@ def generate_random_password(length=12):
 
 # Generate a random password of 12 characters (default length)
 print("Generated password:", generate_random_password())
+print("Hello World")
